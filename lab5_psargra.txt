@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: psargra
+    Linux system name: priyanshu-OPS445
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/psargra/ops445/lab-5-PSARGRA
+    Start at: Fri Feb 14 19:02:52 2025
+=================================================================
